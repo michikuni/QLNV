@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = '192.168.7.2';
 $dbname = 'employeedb';
 $username = 'root';
 $password = '';
